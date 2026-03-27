@@ -60,8 +60,8 @@ const Contact = () => {
     {
       icon: Mail,
       title: "Email",
-      details: ["info@transportpro.com", "sales@transportpro.com"],
-      link: "mailto:info@transportpro.com",
+      details: ["vanithaharibabu123@gmail.com", "vanithaharibabu123@gmail.com"],
+      link: "mailto:vanithaharibabu123@gmail.com",
     },
     {
       icon: MapPin,
@@ -164,7 +164,7 @@ const Contact = () => {
                         id="email"
                         name="email"
                         type="email"
-                        placeholder="your@email.com"
+                        placeholder="vanithaharibabu123@gmail.com"
                         value={formData.email}
                         onChange={handleInputChange}
                       />
@@ -246,7 +246,7 @@ const Contact = () => {
                     </a>
                   </Button>
                   <Button variant="outline" size="lg" className="w-full" asChild>
-                    <a href="mailto:info@transportpro.com">
+                    <a href="mailto:vanithaharibabu123@gmail.com">
                       <Mail className="h-5 w-5" />
                       Email Us
                     </a>
