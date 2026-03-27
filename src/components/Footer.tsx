@@ -59,7 +59,7 @@ const Footer = () => {
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <Mail className="h-4 w-4 mt-0.5 text-primary flex-shrink-0" />
-                <a href="mailto:info@transportpro.com" className="hover:text-primary">info@transportpro.com</a>
+                <a href="mailto:vanithaharibabu123@gmail.com" className="hover:text-primary">vanithaharibabu123@gmail.com</a>
               </li>
               <li className="flex items-start gap-2 text-sm">
                 <MapPin className="h-4 w-4 mt-0.5 text-primary flex-shrink-0" />
